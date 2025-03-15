@@ -95,4 +95,4 @@ Recipes-Website/
 - **Contribution:** Contributions are welcome! Please review the guidelines in the docs before submitting pull requests.
 - **License:** Distributed under the MIT License; see the `LICENSE` file for more details.
 
-Happy coding and enjoy sharing your favorite recipes!
+Happy meals and enjoy sharing your favorite recipes!
